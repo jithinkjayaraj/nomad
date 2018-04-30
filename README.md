@@ -1,2 +1,2 @@
 # nomad
-The ultimate traveller app to connect and go
+The ultimate traveller app to connect and go!
