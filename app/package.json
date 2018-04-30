@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/c0depool/nomad/issues"
   },
-  "homepage": "https://github.com/c0depool/nomad#readme"
+  "homepage": "https://github.com/c0depool/nomad#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
