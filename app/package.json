@@ -1,0 +1,19 @@
+{
+  "name": "nomad",
+  "version": "1.0.0",
+  "description": "The ultimate traveller app to connect and go",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0depool/nomad.git"
+  },
+  "author": "codepool",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/c0depool/nomad/issues"
+  },
+  "homepage": "https://github.com/c0depool/nomad#readme"
+}
